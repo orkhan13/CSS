@@ -1,0 +1,148 @@
+.body{
+      background-color: white;
+}
+.neuron{
+      text-align: left;
+      margin-top: 30px;
+      margin-left: 100px;
+      font-family: "Merriweather",serif;
+      font-size: 20px;
+      font-style: bold;
+      color: #777777;
+}
+
+
+.home{
+      text-align: right;
+      margin-top: 0px;
+      margin-right: 50px;
+      margin-left: 70px;
+      margin-bottom: 40px;
+      font-family: "Merriweather",serif;
+      font-size: 20px;
+      font-style: normal;
+      text-decoration: none;
+      color:#BFBA7A;
+}
+.about{
+      text-align: right;
+      margin-top: 0px;
+      margin-right: 30px
+      margin-left: 50px;
+      margin-bottom: 40px;
+      font-family: "Merriweather",serif;
+      font-size: 20px;
+      font-style: normal;
+      text-decoration: none;
+      color:#777777;
+
+}
+.gallery{
+      text-align: right;
+      margin-top: 0px;
+      margin-right: 30px;
+      margin-left: 50px;
+      margin-bottom: 40px;
+      font-family: "Merriweather",serif;
+      font-size: 20px;
+      font-style: normal;
+      text-decoration: none;
+      color:#777777;
+
+}
+.contact{
+      text-align: right;
+      margin-top: 0px;
+      margin-right: 50px;
+      margin-left: 10px;
+      margin-bottom: 40px;
+      font-family: "Merriweather",serif;
+      font-size: 20px;
+      font-style: normal;
+      text-decoration: none;
+      color:#777777;
+}
+/* unvisited link */
+a:link {
+  color:#777777 ;
+}
+
+/* visited link */
+a:visited {
+  color:#777777 ;
+}
+
+/* mouse over link */
+a:hover {
+  color: #BFBA7A;
+}
+
+/* selected link */
+a:active {
+  color: #BFBA7A;
+ }
+
+ .index1{
+      position: absolute;
+      text-decoration: none;
+      background-size: cover;
+      margin-left:0px;
+      margin-right: 0px;
+      margin-top:40px;
+      left: 0; right:0; bottom:80px; top:80px;
+ }
+ .index2{
+      text-align: center;
+      margin-top: 130px;
+      font-family: bold;
+      font-family: "Merriweather",serif;
+      font-size: 80px;
+      letter-spacing: 0.5px;
+      color: white;
+ }
+ .index3{
+      text-align: center;
+      margin-top: 10px;
+      font-family: bold;
+      font-family: "Merriweather",serif;
+      font-size: 20px;
+      letter-spacing: 0.5px;
+      color: rgb(212,192,44);
+
+ }
+ .index4{
+      padding-left: 180px;
+ }
+ .index5{
+      padding: 0px 650px 0px 180px;
+      font-family: "Fjalla One" ,sans-serif;
+      font-size: 25px;
+
+ }
+ .index6{
+
+      padding-left: 180px;
+      
+
+ }
+ .img{
+      border-radius: 100px;
+      border:20px round;
+      width: 50px;
+      height: 50px;
+}
+.index7{
+      padding-right: 100px;
+      font-size: 20px;
+}
+ .button{
+      border-radius: 100px;
+      width: 200px;
+      height: 50px;
+      background-color: white;
+      color: grey;
+}
+.button:hover{
+     background-color: #BFBA55;
+}
+ 
